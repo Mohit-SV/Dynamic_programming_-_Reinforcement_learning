@@ -1,1 +1,1 @@
-These are assigment works which are part of Dynamic programming and Reinforcement learning course.
+These are assigment works that are part of Dynamic programming and Reinforcement learning course.
